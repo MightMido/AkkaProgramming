@@ -1,0 +1,5 @@
+package Voter
+
+//class VoteMonitor {
+
+//}
